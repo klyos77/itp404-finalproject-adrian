@@ -1,0 +1,93 @@
+{
+  "workout_journal": [
+    {
+      "id": "1",
+      "userId": "1",
+      "title": "Working out with Friends",
+      "imgUrl": "https://img.lanniuzai.com/oss/D6/3C/MTkyLjE2OC4xLjQ1MTYwMjgyMDk2NzI0ODM0MTYwMjUwNjc4NDkyNjgx.jpg",
+      "body": "I went to work out with friends at Lyon Center today",
+      "timeStamp": "2023-12-01 09:00:00"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "title": "started my diet plan",
+      "body": "i will start my diet plan today",
+      "timeStamp": "2023-12-02 09:00:00"
+    },
+    {
+      "id": "3",
+      "userId": "1",
+      "title": "Morning Yoga Routine",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLErEquPAdq33do6hdQLBGGzPueda1DEdbg&usqp=CAU",
+      "body": "Started the day with a refreshing 30-minute yoga session focusing on flexibility and mindfulness. Felt energized and ready to tackle the day.",
+      "timeStamp": "2023-12-04 09:00:00"
+    },
+    {
+      "id": "4",
+      "userId": "2",
+      "title": "Evening Run in the Park",
+      "body": "Completed a 5 km run in the local park. The weather was perfect and I managed to beat my previous time. Feeling accomplished and motivated.",
+      "timeStamp": "2023-12-05 09:00:00"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "userName": "yangaobozv",
+      "name": "Adrian Yang",
+      "password": "123456",
+      "profilePicUrl": "https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg",
+      "favorites": [
+        {
+          "id": "2",
+          "timestamp": "2023-12-05T06:19:23.366Z"
+        },
+        {
+          "id": "1",
+          "timestamp": "2023-12-05T06:24:09.449Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "userName": "jackey",
+      "name": "Jackson",
+      "password": "qwerty",
+      "profilePicUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+      "favorites": [
+        {
+          "id": "2",
+          "timestamp": "2023-12-03 09:30:00"
+        },
+        {
+          "id": "3",
+          "timestamp": "2023-12-04 15:45:00"
+        }
+      ]
+    }
+  ],
+  "workout_recipe": [
+    {
+      "id": "1",
+      "title": "High-Protein Chicken Salad",
+      "imgUrl": "https://www.skinnytaste.com/wp-content/uploads/2008/07/Classic-Chicken-Salad-4.jpg",
+      "body": "Grilled chicken breast diced and mixed with quinoa, cherry tomatoes, cucumber, and avocado. Seasoned with lemon juice, olive oil, salt, and pepper. Perfect for a post-workout meal to aid muscle recovery.",
+      "timeStamp": "2023-11-05 09:00:00"
+    },
+    {
+      "id": "2",
+      "title": "Energizing Smoothie Bowl",
+      "imgUrl": "https://www.simplyhappenstance.com/wp-content/uploads/2014/08/energizing-smoothie-bowl-simplyhappenstance.com-44.jpg",
+      "body": "Blend together bananas, blueberries, and spinach with a scoop of protein powder. Top with chia seeds, sliced almonds, and a drizzle of honey. Great for an energy boost before a workout.",
+      "timeStamp": "2023-11-24 09:00:00"
+    },
+    {
+      "id": "3",
+      "title": "Quinoa and Black Bean Salad",
+      "imgUrl": "https://detoxinista.com/wp-content/uploads/2018/06/southwest-quinoa-salad.jpg",
+      "body": "Cooked quinoa mixed with black beans, corn, bell peppers, and cilantro. Tossed in a lime vinaigrette. A balanced meal to provide sustained energy for endurance workouts.",
+      "timeStamp": "2023-11-18 09:00:00"
+    }
+  ]
+}
